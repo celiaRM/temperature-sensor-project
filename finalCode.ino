@@ -51,5 +51,5 @@ void loop() {
  //Serial.println(readVal);  // display tempature
  delay(500);
  display.clearDisplay();
- 
+  
 }
